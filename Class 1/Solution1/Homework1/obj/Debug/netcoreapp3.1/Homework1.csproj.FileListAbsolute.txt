@@ -1,0 +1,12 @@
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/bin/Debug/netcoreapp3.1/Homework1.deps.json
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/bin/Debug/netcoreapp3.1/Homework1.runtimeconfig.json
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/bin/Debug/netcoreapp3.1/Homework1.runtimeconfig.dev.json
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/bin/Debug/netcoreapp3.1/Homework1.dll
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/bin/Debug/netcoreapp3.1/Homework1.pdb
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/obj/Debug/netcoreapp3.1/Homework1.csprojAssemblyReference.cache
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/obj/Debug/netcoreapp3.1/Homework1.AssemblyInfoInputs.cache
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/obj/Debug/netcoreapp3.1/Homework1.AssemblyInfo.cs
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/obj/Debug/netcoreapp3.1/Homework1.csproj.CoreCompileInputs.cache
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/obj/Debug/netcoreapp3.1/Homework1.dll
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/obj/Debug/netcoreapp3.1/Homework1.pdb
+/Users/dejan/Desktop/AKADEMIJA/Basic C#/Homeworks C# Basic/Class 1/Solution1/Homework1/obj/Debug/netcoreapp3.1/Homework1.genruntimeconfig.cache
