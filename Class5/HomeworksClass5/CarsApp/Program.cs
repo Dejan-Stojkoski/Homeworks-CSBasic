@@ -62,7 +62,7 @@ namespace CarsApp
 
         static string RaceCars(Car car1, Car car2)
         {
-            Car winner = new Car();
+            Car winner;
 
             if (car1.CalculateSpeed() > car2.CalculateSpeed()) winner = car1;
             else winner = car2;
